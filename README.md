@@ -1,2 +1,2 @@
-# github.io
+# xlocat.github.io
 BIMI logo for Xlocat
